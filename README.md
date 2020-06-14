@@ -1,2 +1,2 @@
 # S-COCO
-Simple, fast, elegant SCSS framework
+A simple, fast, elegant SCSS framework
